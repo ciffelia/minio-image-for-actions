@@ -1,0 +1,1 @@
+# minio-image-for-actions
